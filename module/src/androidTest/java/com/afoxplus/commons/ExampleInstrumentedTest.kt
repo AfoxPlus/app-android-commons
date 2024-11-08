@@ -1,4 +1,4 @@
-package com.afoxplus.module
+package com.afoxplus.commons
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
@@ -11,6 +11,6 @@ class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.afoxplus.module.test", appContext.packageName)
+        assertEquals("com.afoxplus.commons.test", appContext.packageName)
     }
 }

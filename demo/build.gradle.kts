@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.afoxplus.module.demo"
+    namespace = "com.afoxplus.commons.demo"
     compileSdk = Versions.compileSdkVersion
 
     defaultConfig {

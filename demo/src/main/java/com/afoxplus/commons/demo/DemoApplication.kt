@@ -1,4 +1,4 @@
-package com.afoxplus.module.demo
+package com.afoxplus.commons.demo
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
