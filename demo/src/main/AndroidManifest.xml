@@ -3,6 +3,10 @@
     package="com.afoxplus.commons.demo">
 
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <!-- Add permission for fine location (GPS) -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- Add permission for coarse location (network-based location) -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:name=".DemoApplication"
