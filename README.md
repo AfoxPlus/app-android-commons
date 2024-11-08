@@ -1,6 +1,6 @@
 # Welcome to app-android-commons!
 
-![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=afoxplus-app-android-invitation&metric=alert_status)
+![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=afoxplus-app-android-commons&metric=alert_status)
 ![GithubActions](https://github.com/afoxplus/app-android-commons/actions/workflows/android_build.yml/badge.svg?branch=master)
 
 Commons is an library for afoxplus.
